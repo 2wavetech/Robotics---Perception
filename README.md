@@ -23,4 +23,4 @@ We will use tracking and pose estimation to implement a simple augmented reality
 
 ![3Dprojection](./images/3Dprojection.jpg)
 
-More details can be found [here]().
+More details can be found [here](https://github.com/2wavetech/Robotics-Perception/blob/master/Image%20Projection%202%20AR/Robotics%20Perception%20Augmented%20Reality.pdf).
