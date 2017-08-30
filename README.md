@@ -7,7 +7,7 @@ in the image, while making the foreground and background objects appear larger o
 the camera. We will simulate the Dolly Zoom effect with a synthetic scene as shown in figure below, which illustrates two cubes 
 and one pyramid seen from the top view.
 
-![DollyEffect](./images/DollyEffect.jpg]
+![DollyEffect](./images/DollyEffect.jpg)
 
 More details can be found [here]().
 
