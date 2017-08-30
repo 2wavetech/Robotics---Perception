@@ -16,7 +16,7 @@ We will use the concepts of projective geometry and homographies to allow us to 
 
 ![Projection](./images/Projection.jpg)
 
-More details can be found [here]().
+More details can be found [here](https://github.com/2wavetech/Robotics-Perception/blob/master/Projective%20Geometry/Robotics%20Perception%20Image%20Projection.pdf).
 
 ## 3. Augmented Reality (AR)
 We will use tracking and pose estimation to implement a simple augmented reality application. There will be two steps to this process. First, we will use a KLT tracker to get the position of corners across different frames. Then we will use homography estimation to compute the 3D pose of a set of 4 points in the world and, instead of simply overlaying a logo like in the previous assignment, render a 3D object in the frame. For simplicity we will be rendering a cube, but in principle, any object could be used. Below are a few example images of the results in 1. The goal will be to from a set of 4 projected points on your image with known coordinates (the AprilTag or Soccer goal corners), find the necessary position and orientation to draw the cube over the points.
